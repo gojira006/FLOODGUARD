@@ -38,13 +38,6 @@ Iligan City has a history of severe flooding — most notably Typhoon Washi in 2
 - All sensors share 5V VCC and common GND with the Arduino
 
 
-## Repository Structure
-
-```
-├── src/                 # Arduino sketch(es) — sensor reading, Blynk integration
-├── docs/                # Circuit diagram, block diagrams, images
-└── README.md
-```
 
 ## How to Build & Flash
 
